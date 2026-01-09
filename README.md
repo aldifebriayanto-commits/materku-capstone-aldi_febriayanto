@@ -7,7 +7,7 @@ Show Image
 Aplikasi mobile untuk mengelola dan berbagi materi pembelajaran dengan fitur CRUD, statistik visual, dan sinkronisasi cloud.
 
 📥 Download APK
-⬇️ Download Materku v1.0.0 APK (24.4 MB)
+[⬇️ Download Materku v1.0.0 APK (24.4 MB)](https://github.com/aldifebriayanto-commits/materku-capstone-aldi_febriayanto/releases/download/v1.0.0/MaterKu-v1.0.0.apk)
 
 System Requirements:
 
