@@ -14,25 +14,25 @@ System Requirements:
 Android 5.0 (API Level 21) or higher
 50 MB free storage
 2 GB RAM minimum
-📱 Screenshots
-<div align="center">
-Home Screen
-Show Image
+## 📱 Screenshots
 
-Material Detail
-Show Image
+### Home Screen
+![Home Screen](screenshots/home.png)
 
-Upload Material
-Show Image
+### Material Detail
+![Material Detail](screenshots/detail.png)
 
-Favorites
-Show Image
+### Upload Material
+![Upload Material](screenshots/upload.png)
 
-Downloads History
-Show Image
+### Favorites
+![Favorites](screenshots/favorites.png)
 
-Statistics Dashboard
-Show Image
+### Downloads History
+![Downloads History](screenshots/downloads.png)
+
+### Statistics Dashboard
+![Statistics Dashboard](screenshots/statistics.png)
 
 </div>
 ✨ Features
